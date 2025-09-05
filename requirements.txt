@@ -1,2 +1,2 @@
-nimpy
+numpy
 pandas

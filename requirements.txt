@@ -5,3 +5,4 @@ psycopg2
 scikit-learn 
 imbalanced-learn
 redis
+flask
